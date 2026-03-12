@@ -1,0 +1,22 @@
+const questions = [
+    { q: "What is a clinical consequence of prolonged iodine malnutrition?", o: ["Goiter", "Diabetes", "Liver failure", "Zinc deficiency"], a: 0 },
+    { q: "Which enzyme acts as a catalyst for converting Urea into Ammonia?", o: ["Urease", "ALP", "AST", "ALT"], a: 0 },
+    { q: "What is a characteristic of Zinc deficiency?", o: ["Poor wound healing", "Rapid bone growth", "Elevated creatinine", "High thyroid hormone"], a: 0 },
+    { q: "Which enzyme is specifically elevated in viral hepatitis?", o: ["ALT", "Urease", "AST", "Creatinine"], a: 0 },
+    { q: "What is used in the Berthelot reaction to detect ammonia?", o: ["Salicylate and Nitroprusside", "Picric acid", "p-Nitrophenyl phosphate", "Zinc chromogen"], a: 0 },
+    { q: "Why is the Urea/Creatinine ratio higher than 15 in pre-renal failure?", o: ["Reduced kidney perfusion", "Liver damage", "Increased muscle mass", "High iodine intake"], a: 0 },
+    { q: "What is the result of the Jaffe reaction for Creatinine?", o: ["Reddish-orange color", "Blue-green color", "Colorless solution", "Brown precipitate"], a: 0 },
+    { q: "ALP is a diagnostic indicator for:", o: ["Obstructive biliary tract disease", "Heart attack", "Muscle trauma", "Diabetes"], a: 0 },
+    { q: "What happens to ALP levels during the growth phase in children?", o: ["Increase", "Decrease", "No change", "Disappear"], a: 0 },
+    { q: "Which of these is NOT a function of thyroid hormones?", o: ["Regulation of bone mineralization", "Regulation of metabolism", "Regulation of growth", "Regulation of development"], a: 0 },
+    { q: "Which enzyme is monitored by the rate of decrease in absorbance at 340 nm?", o: ["AST", "ALP", "Zinc", "Urease"], a: 0 },
+    { q: "What does the Urea/Creatinine ratio < 10 indicate?", o: ["Renal failure", "Pre-renal failure", "Normal", "Hyperthyroidism"], a: 0 },
+    { q: "Which condition is associated with decreased levels of AST?", o: ["Diabetic Ketoacidosis", "Hepatic necrosis", "Myocardial infarction", "Skeletal trauma"], a: 0 },
+    { q: "What is the primary indicator of thyroid function?", o: ["Iodine status", "Zinc level", "Creatinine level", "Urea level"], a: 0 },
+    { q: "Which reagent is used in the ALT test for the indicator reaction?", o: ["LDH", "MDH", "Alkaline Phosphatase", "Urease"], a: 0 },
+    { q: "Why is the Cockcroft-Gault equation replaced in clinical settings?", o: ["More direct GFR estimation equations", "It is too simple", "It uses too many reagents", "It only works for men"], a: 0 },
+    { q: "Zinc status affects which of the following processes?", o: ["DNA synthesis and repair", "Lipid breakdown", "Carbohydrate storage", "Oxygen transport"], a: 0 },
+    { q: "What does elevated serum iodine imply?", o: ["Exposure to contrast media", "Hypothyroidism", "Liver necrosis", "Muscle dystrophy"], a: 0 },
+    { q: "What is the substrate for the AST/GOT reaction?", o: ["L-Aspartate", "Alanine", "Creatinine", "Urea"], a: 0 },
+    { q: "Which enzyme has the highest concentration in cardiac muscle?", o: ["AST", "ALT", "ALP", "Urease"], a: 0 }
+];
